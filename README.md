@@ -7,7 +7,7 @@ SFC -b bin_size -i input_file -control number_of_controls -case number_of_cases
 ```
 -b: The bin/neighborhood size of the method (>=2). The default value is 1000.
 
--i: One tab delimited input file is reqiured. No missing values are allowed.
+-i: One tab delimited input file is reqiured. No missing values are allowed. We suggest a normalization before run SFC.
 
 -control: The number of controls for SFC (>=1). 
 
