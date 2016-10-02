@@ -16,5 +16,5 @@ SFC -b bin_size -i input_file -control number_of_controls -case number_of_cases
 Output: SCF_output.txt contains values of SFC statistic for each probe. If all cases and controls have the same expression value, value of SFC should be 'nan'.
 
 
--- .cpp would not be open till manuscript completed.
+// .cpp would not be open till manuscript completed.
 
